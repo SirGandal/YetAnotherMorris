@@ -1,6 +1,6 @@
 # Yet Another Morris
 
-Yet Another Morris is a game born as a spin off of the work done for my Master's thesis, Monte Carlo Tree Search Applied to Nine Men's Morris.  
+Yet Another Morris is a game born as a spin off of the work done for my Master's thesis, [Monte Carlo Tree Search Applied to Nine Men's Morris](https://www.politesi.polimi.it/handle/10589/126365).  
 
 ## Credits  
 * [Console](https://github.com/mminer/consolation) script by _mminer_ under MIT license  
