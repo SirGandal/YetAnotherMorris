@@ -2,6 +2,12 @@
 
 Yet Another Morris is a game born as a spin off of the work done for my Master's thesis, [Monte Carlo Tree Search Applied to Nine Men's Morris](https://www.politesi.polimi.it/handle/10589/126365).  
 
+### Screenshots
+From left to right: the main Menu, the board in the very first part of the game and a playing phase where the blue player makes a mill.  
+<img src="Screenshots/Menu.png" width="250">  <img src="Screenshots/Playing_Init.png" width="250">  <img src="Screenshots/Playing_Mill1.png" width="250">  
+From left to right: a playing phase where the orange player makes a mill but it is not allowed to remove the stones belonging to a mill, the board during the moving phase with highlighted the stones that can move and the board in a final configuration showing the winner.  
+<img src="Screenshots/Playing_Mill2.png" width="250">  <img src="Screenshots/Playing_Move.png" width="250">  <img src="Screenshots/End.png" width="250">
+
 ## Credits  
 * [Console](https://github.com/mminer/consolation) script by _mminer_ under MIT license  
 * App icons created with [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) by _romannurik_ under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license  
